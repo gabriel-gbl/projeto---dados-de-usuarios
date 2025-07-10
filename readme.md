@@ -29,7 +29,7 @@ Este projeto é um CRUD simples com HTML, CSS, JavaScript, PHP e MySQL. Ele perm
 
 - Inicie o servidor, abra o XAMPP ou similar e inicie Apache e MySQL;
 
-- Abra o dominio [phpmyadmin](http://localhost/phpmyadmin) e vá em importar e depois selecione o arquivo usuario. e clique em importar;
+- Abra o dominio [phpmyadmin](http://localhost/phpmyadmin) e vá em importar e depois selecione o arquivo perfil.sql e clique em importar;
 
 - Acesse o arquivo do servidor, busque pela pasta htdocs e cole o arquivo do projeto;
 
